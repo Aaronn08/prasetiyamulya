@@ -84,7 +84,7 @@ nav .container ul.sticky-nav li.item{
 section.hero {
     height: calc(100vh - 60px - 91px);
     background-color: yellowgreen;
-    background-image: url('assets/prasmul2contoh.webp');
+    background-image: url('prasmul2contoh.webp');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
